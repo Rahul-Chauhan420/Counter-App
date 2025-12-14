@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.button {
+  @apply w-32 h-10 bg-slate-500 rounded-lg cursor-pointer hover:text-slate-700 hover:bg-slate-200 transition-colors duration-300 border-2 border-slate-700;
+}
